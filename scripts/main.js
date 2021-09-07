@@ -1,1 +1,4 @@
-console.log("You look marvelous!")
+import { getUser } from "./userManager.js";
+import { User } from "./user.js";
+
+getUser();
