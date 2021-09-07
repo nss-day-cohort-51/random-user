@@ -1,1 +1,3 @@
-console.log("You look marvelous!")
+import {getUsers} from "./DataManager.js"
+
+getUsers()
