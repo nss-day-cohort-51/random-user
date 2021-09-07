@@ -1,5 +1,5 @@
-import {apiCall} from "./apiCall.js"
-
-apiCall()
+import {clicked} from "./user.js"
 
 console.log("You look marvelous!")
+
+clicked()
