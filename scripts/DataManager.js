@@ -10,4 +10,3 @@ export const getUsers = () => {
     .then(data => console.log(data))
 } 
 
-console.log("Working")
