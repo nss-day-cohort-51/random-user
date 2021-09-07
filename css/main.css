@@ -1,0 +1,39 @@
+.userlist {
+
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.profileImage {
+
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+
+body {
+
+    background-color: wheat;
+}
