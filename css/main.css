@@ -1,0 +1,62 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+main
+{
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+.random-display
+{
+    background-color: aqua;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+
+#random
+{
+    padding: 8px;
+    font-size: 15px;
+    border-style: solid;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: darkturquoise;
+    font: 1200px;
+    color: white;
+}
+
+.images
+{
+    border-radius: 100px;
+    width: 28%;
+    margin-top: 30px;
+}
+
+
+
+.infosDisplay
+{
+    font-size: 20px;
+  
+}
+
+li
+{
+    list-style: none;
+}
+.color
+{
+   font-size: 22px;
+   font-weight: bold;
+   color: rgb(99, 99, 99);
+}
