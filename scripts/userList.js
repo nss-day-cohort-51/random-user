@@ -10,5 +10,5 @@ export const userList = (Users) => {
 
         userHTML += User(oneUser);
     }
-    contentElement.innerHTML += userHTML
+    contentElement.innerHTML = userHTML
 }
